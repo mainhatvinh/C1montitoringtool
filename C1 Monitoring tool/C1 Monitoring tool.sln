@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.3
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C1 Monitoring tool", "ConnectToSQLServerJE\C1 Monitoring tool.csproj", "{A89C98AE-8F55-49C8-88BB-B1112BA0B910}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A89C98AE-8F55-49C8-88BB-B1112BA0B910}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A89C98AE-8F55-49C8-88BB-B1112BA0B910}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A89C98AE-8F55-49C8-88BB-B1112BA0B910}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A89C98AE-8F55-49C8-88BB-B1112BA0B910}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal

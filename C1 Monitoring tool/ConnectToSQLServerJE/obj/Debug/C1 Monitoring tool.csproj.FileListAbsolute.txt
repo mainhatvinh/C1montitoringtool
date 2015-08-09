@@ -1,0 +1,949 @@
+C:\Documents and Settings\an.c.thien.nguyen\My Documents\SharpDevelop Projects\C1 Monitoring tool\ConnectToSQLServerJE\bin\Debug\C1 Monitoring tool.exe
+C:\Documents and Settings\an.c.thien.nguyen\My Documents\SharpDevelop Projects\C1 Monitoring tool\ConnectToSQLServerJE\bin\Debug\C1 Monitoring tool.pdb
+C:\Documents and Settings\an.c.thien.nguyen\My Documents\SharpDevelop Projects\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\an.c.thien.nguyen\My Documents\SharpDevelop Projects\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\an.c.thien.nguyen\My Documents\SharpDevelop Projects\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\an.c.thien.nguyen\My Documents\SharpDevelop Projects\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1 Monitoring tool.exe
+C:\Documents and Settings\an.c.thien.nguyen\My Documents\SharpDevelop Projects\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1 Monitoring tool.pdb
+C:\Documents and Settings\an.c.thien.nguyen\My Documents\SharpDevelop Projects\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.MainForm.resources
+C:\Documents and Settings\an.c.thien.nguyen\My Documents\SharpDevelop Projects\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\GenerateResource.read.4.tlog
+C:\Documents and Settings\an.c.thien.nguyen\My Documents\SharpDevelop Projects\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBooking.resources
+C:\Documents and Settings\an.c.thien.nguyen\My Documents\SharpDevelop Projects\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBudgetStaffing.resources
+C:\Documents and Settings\an.c.thien.nguyen\My Documents\SharpDevelop Projects\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmClient.resources
+C:\Documents and Settings\an.c.thien.nguyen\My Documents\SharpDevelop Projects\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmEngagement.resources
+C:\Documents and Settings\an.c.thien.nguyen\My Documents\SharpDevelop Projects\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmITRAMember.resources
+C:\Documents and Settings\an.c.thien.nguyen\My Documents\SharpDevelop Projects\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmTimesheet.resources
+C:\Documents and Settings\an.c.thien.nguyen\My Documents\SharpDevelop Projects\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmWorkStatus.resources
+C:\Documents and Settings\an.c.thien.nguyen\My Documents\SharpDevelop Projects\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\ButtonTree1.ButtonTree.resources
+C:\Documents and Settings\an.c.thien.nguyen\My Documents\SharpDevelop Projects\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\ButtonTreeUserControl.MenuTreeView.resources
+C:\Documents and Settings\an.c.thien.nguyen\My Documents\SharpDevelop Projects\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmIndustry.resources
+C:\Documents and Settings\an.c.thien.nguyen\My Documents\SharpDevelop Projects\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRate.resources
+C:\Documents and Settings\an.c.thien.nguyen\My Documents\SharpDevelop Projects\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmSystem.resources
+C:\Documents and Settings\an.c.thien.nguyen\My Documents\SharpDevelop Projects\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRetainReport.resources
+C:\Documents and Settings\an.c.thien.nguyen\My Documents\SharpDevelop Projects\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRevenueReport.resources
+C:\Documents and Settings\an.c.thien.nguyen\My Documents\SharpDevelop Projects\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmWorkStatusReport.resources
+C:\Documents and Settings\an.c.thien.nguyen\My Documents\SharpDevelop Projects\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmUtilizationReport.resources
+C:\Documents and Settings\an.c.thien.nguyen\My Documents\SharpDevelop Projects\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmInfrastructure.resources
+C:\Documents and Settings\an.c.thien.nguyen\My Documents\SharpDevelop Projects\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRetain_Popup.resources
+C:\Documents and Settings\an.c.thien.nguyen\My Documents\SharpDevelop Projects\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmTimesheet1.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v1.5\C1 Monitoring tool\ConnectToSQLServerJE\bin\Debug\C1 Monitoring tool.exe
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v1.5\C1 Monitoring tool\ConnectToSQLServerJE\bin\Debug\C1 Monitoring tool.pdb
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v1.5\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v1.5\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBooking.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v1.5\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBudgetStaffing.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v1.5\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmClient.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v1.5\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmEngagement.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v1.5\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmIndustry.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v1.5\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmInfrastructure.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v1.5\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmITRAMember.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v1.5\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRate.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v1.5\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRetainReport.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v1.5\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRetain_Popup.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v1.5\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRevenueReport.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v1.5\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmSystem.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v1.5\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmTimesheet.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v1.5\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmTimesheet1.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v1.5\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmUtilizationReport.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v1.5\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmWorkStatus.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v1.5\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmWorkStatusReport.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v1.5\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.MainForm.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v1.5\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\ButtonTree1.ButtonTree.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v1.5\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\ButtonTreeUserControl.MenuTreeView.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v1.5\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v1.5\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\GenerateResource.read.4.tlog
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v1.5\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v1.5\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1 Monitoring tool.exe
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v1.5\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1 Monitoring tool.pdb
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v2.3\C1 Monitoring tool\ConnectToSQLServerJE\bin\Debug\C1 Monitoring tool.exe
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v2.3\C1 Monitoring tool\ConnectToSQLServerJE\bin\Debug\C1 Monitoring tool.pdb
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v2.3\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v2.3\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBooking.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v2.3\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBudgetStaffing.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v2.3\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmClient.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v2.3\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmEngagement.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v2.3\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmIndustry.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v2.3\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmInfrastructure.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v2.3\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmITRAMember.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v2.3\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRate.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v2.3\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRetainReport.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v2.3\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRetain_Popup.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v2.3\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRevenueReport.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v2.3\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmSystem.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v2.3\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmTimesheet.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v2.3\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmTimesheet1.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v2.3\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmUtilizationReport.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v2.3\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmWorkStatus.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v2.3\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmWorkStatusReport.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v2.3\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.MainForm.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v2.3\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\ButtonTree1.ButtonTree.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v2.3\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\ButtonTreeUserControl.MenuTreeView.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v2.3\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v2.3\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\GenerateResource.read.4.tlog
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v2.3\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v2.3\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1 Monitoring tool.exe
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v2.3\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1 Monitoring tool.pdb
+C:\Documents and Settings\an.c.thien.nguyen\My Documents\SharpDevelop Projects\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmImportERP.resources
+C:\Documents and Settings\an.c.thien.nguyen\My Documents\SharpDevelop Projects\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBookingN.resources
+C:\Documents and Settings\an.c.thien.nguyen\My Documents\SharpDevelop Projects\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRetain_Popup1.resources
+C:\Documents and Settings\an.c.thien.nguyen\My Documents\SharpDevelop Projects\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBudgetActualReport.resources
+C:\Documents and Settings\an.c.thien.nguyen\My Documents\SharpDevelop Projects\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmAuditTrail.resources
+C:\Documents and Settings\an.c.thien.nguyen\My Documents\SharpDevelop Projects\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRateChange.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.0 - DB 1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.0 - DB 1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmAuditTrail.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.0 - DB 1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBooking.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.0 - DB 1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBookingN.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.0 - DB 1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBudgetActualReport.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.0 - DB 1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBudgetStaffing.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.0 - DB 1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmClient.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.0 - DB 1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmEngagement.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.0 - DB 1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmEngagementDetail.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.0 - DB 1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmImportERP.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.0 - DB 1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmIndustry.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.0 - DB 1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmInfrastructure.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.0 - DB 1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmITRAMember.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.0 - DB 1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRate.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.0 - DB 1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRateChange.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.0 - DB 1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRetainReport.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.0 - DB 1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRetain_Popup.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.0 - DB 1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRetain_Popup1.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.0 - DB 1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRevenueReport.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.0 - DB 1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmSystem.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.0 - DB 1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmTimesheet.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.0 - DB 1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmTimesheet1.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.0 - DB 1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmUtilizationReport.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.0 - DB 1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmWorkStatus.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.0 - DB 1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmWorkStatusReport.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.0 - DB 1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.MainForm.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.0 - DB 1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\ButtonTree1.ButtonTree.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.0 - DB 1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\ButtonTreeUserControl.MenuTreeView.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.0 - DB 1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.0 - DB 1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\GenerateResource.read.4.tlog
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.0 - DB 1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.0 - DB 1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1 Monitoring tool.exe
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.0 - DB 1\C1 Monitoring tool\ConnectToSQLServerJE\bin\Debug\C1 Monitoring tool.exe
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.0 - DB 1\C1 Monitoring tool\ConnectToSQLServerJE\bin\Debug\C1 Monitoring tool.pdb
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.0 - DB 1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1 Monitoring tool.pdb
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.0 - DB 1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmEngSOW_Popup.resources
+C:\Documents and Settings\an.c.thien.nguyen\My Documents\SharpDevelop Projects\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmEngagementDetail.resources
+C:\Documents and Settings\an.c.thien.nguyen\My Documents\SharpDevelop Projects\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmEngSOW_Popup.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.5\C1 Monitoring tool\ConnectToSQLServerJE\bin\Debug\C1 Monitoring tool.exe
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.5\C1 Monitoring tool\ConnectToSQLServerJE\bin\Debug\C1 Monitoring tool.pdb
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.5\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.5\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmAuditTrail.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.5\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBooking.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.5\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBookingN.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.5\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBudgetActualReport.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.5\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBudgetStaffing.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.5\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmClient.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.5\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmEngagement.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.5\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmEngagementDetail.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.5\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmEngSOW_Popup.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.5\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmImportERP.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.5\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmIndustry.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.5\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmInfrastructure.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.5\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmITRAMember.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.5\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRate.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.5\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRateChange.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.5\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRetainReport.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.5\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRetain_Popup.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.5\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRetain_Popup1.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.5\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRevenueReport.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.5\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmSystem.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.5\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmTimesheet.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.5\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmTimesheet1.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.5\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmUtilizationReport.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.5\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmWorkStatus.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.5\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmWorkStatusReport.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.5\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.MainForm.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.5\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\ButtonTree1.ButtonTree.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.5\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\ButtonTreeUserControl.MenuTreeView.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.5\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.5\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\GenerateResource.read.4.tlog
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.5\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.5\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1 Monitoring tool.exe
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.5\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1 Monitoring tool.pdb
+C:\Documents and Settings\an.c.thien.nguyen\My Documents\SharpDevelop Projects\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmConfiguration.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.9\C1 Monitoring tool\ConnectToSQLServerJE\bin\Debug\C1 Monitoring tool.exe
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.9\C1 Monitoring tool\ConnectToSQLServerJE\bin\Debug\C1 Monitoring tool.pdb
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.9\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.9\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmAuditTrail.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.9\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBooking.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.9\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBookingN.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.9\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBudgetActualReport.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.9\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBudgetStaffing.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.9\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmClient.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.9\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmConfiguration.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.9\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmEngagement.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.9\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmEngagementDetail.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.9\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmEngSOW_Popup.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.9\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmImportERP.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.9\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmIndustry.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.9\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmInfrastructure.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.9\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmITRAMember.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.9\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRate.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.9\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRateChange.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.9\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRetainReport.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.9\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRetain_Popup.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.9\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRetain_Popup1.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.9\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRevenueReport.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.9\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmSystem.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.9\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmTimesheet.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.9\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmTimesheet1.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.9\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmUtilizationReport.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.9\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmWorkStatus.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.9\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmWorkStatusReport.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.9\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.MainForm.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.9\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\ButtonTree1.ButtonTree.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.9\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\ButtonTreeUserControl.MenuTreeView.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.9\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.9\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\GenerateResource.read.4.tlog
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.9\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.9\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1 Monitoring tool.exe
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.9\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1 Monitoring tool.pdb
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.9.1\C1 Monitoring tool\ConnectToSQLServerJE\bin\Debug\C1 Monitoring tool.exe
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.9.1\C1 Monitoring tool\ConnectToSQLServerJE\bin\Debug\C1 Monitoring tool.pdb
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.9.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.9.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmAuditTrail.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.9.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBooking.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.9.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBookingN.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.9.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBudgetActualReport.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.9.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBudgetStaffing.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.9.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmClient.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.9.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmConfiguration.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.9.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmEngagement.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.9.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmEngagementDetail.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.9.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmEngSOW_Popup.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.9.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmImportERP.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.9.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmIndustry.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.9.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmInfrastructure.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.9.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmITRAMember.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.9.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRate.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.9.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRateChange.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.9.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRetainReport.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.9.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRetain_Popup.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.9.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRetain_Popup1.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.9.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRevenueReport.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.9.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmSystem.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.9.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmTimesheet.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.9.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmTimesheet1.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.9.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmUtilizationReport.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.9.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmWorkStatus.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.9.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmWorkStatusReport.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.9.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.MainForm.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.9.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\ButtonTree1.ButtonTree.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.9.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\ButtonTreeUserControl.MenuTreeView.resources
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.9.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.9.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\GenerateResource.read.4.tlog
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.9.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.9.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1 Monitoring tool.exe
+C:\Documents and Settings\luan.khanh.ha\My Documents\SharpDevelop Projects\C1 Monitoring tool v3.9.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1 Monitoring tool.pdb
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\SharpDevelop Projects\C1 Monitoring tool v3.9.1\C1 Monitoring tool\ConnectToSQLServerJE\bin\Debug\C1 Monitoring tool.exe
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\SharpDevelop Projects\C1 Monitoring tool v3.9.1\C1 Monitoring tool\ConnectToSQLServerJE\bin\Debug\C1 Monitoring tool.pdb
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\SharpDevelop Projects\C1 Monitoring tool v3.9.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\SharpDevelop Projects\C1 Monitoring tool v3.9.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmAuditTrail.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\SharpDevelop Projects\C1 Monitoring tool v3.9.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBooking.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\SharpDevelop Projects\C1 Monitoring tool v3.9.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBookingN.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\SharpDevelop Projects\C1 Monitoring tool v3.9.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBudgetActualReport.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\SharpDevelop Projects\C1 Monitoring tool v3.9.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBudgetStaffing.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\SharpDevelop Projects\C1 Monitoring tool v3.9.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmClient.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\SharpDevelop Projects\C1 Monitoring tool v3.9.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmConfiguration.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\SharpDevelop Projects\C1 Monitoring tool v3.9.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmEngagement.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\SharpDevelop Projects\C1 Monitoring tool v3.9.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmEngagementDetail.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\SharpDevelop Projects\C1 Monitoring tool v3.9.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmEngSOW_Popup.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\SharpDevelop Projects\C1 Monitoring tool v3.9.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmImportERP.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\SharpDevelop Projects\C1 Monitoring tool v3.9.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmIndustry.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\SharpDevelop Projects\C1 Monitoring tool v3.9.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmInfrastructure.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\SharpDevelop Projects\C1 Monitoring tool v3.9.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmITRAMember.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\SharpDevelop Projects\C1 Monitoring tool v3.9.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRate.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\SharpDevelop Projects\C1 Monitoring tool v3.9.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRateChange.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\SharpDevelop Projects\C1 Monitoring tool v3.9.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRetainReport.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\SharpDevelop Projects\C1 Monitoring tool v3.9.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRetain_Popup.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\SharpDevelop Projects\C1 Monitoring tool v3.9.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRetain_Popup1.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\SharpDevelop Projects\C1 Monitoring tool v3.9.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRevenueReport.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\SharpDevelop Projects\C1 Monitoring tool v3.9.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmSystem.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\SharpDevelop Projects\C1 Monitoring tool v3.9.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmTimesheet.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\SharpDevelop Projects\C1 Monitoring tool v3.9.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmTimesheet1.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\SharpDevelop Projects\C1 Monitoring tool v3.9.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmUtilizationReport.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\SharpDevelop Projects\C1 Monitoring tool v3.9.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmWorkStatus.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\SharpDevelop Projects\C1 Monitoring tool v3.9.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmWorkStatusReport.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\SharpDevelop Projects\C1 Monitoring tool v3.9.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.MainForm.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\SharpDevelop Projects\C1 Monitoring tool v3.9.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\ButtonTree1.ButtonTree.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\SharpDevelop Projects\C1 Monitoring tool v3.9.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\ButtonTreeUserControl.MenuTreeView.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\SharpDevelop Projects\C1 Monitoring tool v3.9.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\SharpDevelop Projects\C1 Monitoring tool v3.9.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\GenerateResource.read.4.tlog
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\SharpDevelop Projects\C1 Monitoring tool v3.9.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\SharpDevelop Projects\C1 Monitoring tool v3.9.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1 Monitoring tool.exe
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\SharpDevelop Projects\C1 Monitoring tool v3.9.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1 Monitoring tool.pdb
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\SharpDevelop Projects\C1 Monitoring tool v3.9.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmUtilization_Popup.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\SharpDevelop Projects\C1 Monitoring tool v3.9.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmConnect.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\SharpDevelop Projects\C1 Monitoring tool v3.9.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmWebbrowser.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\SharpDevelop Projects\C1 Monitoring tool v3.9.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmClientReport.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\SharpDevelop Projects\C1 Monitoring tool v3.9.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmClientReport_Popup.resources
+C:\Documents and Settings\tan.vinh.phan\Desktop\05072013\ITRA revenue\Monitor tool\11092013\C1 Monitoring tool\ConnectToSQLServerJE\bin\Debug\C1 Monitoring tool.exe
+C:\Documents and Settings\tan.vinh.phan\Desktop\05072013\ITRA revenue\Monitor tool\11092013\C1 Monitoring tool\ConnectToSQLServerJE\bin\Debug\C1 Monitoring tool.pdb
+C:\Documents and Settings\tan.vinh.phan\Desktop\05072013\ITRA revenue\Monitor tool\11092013\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\tan.vinh.phan\Desktop\05072013\ITRA revenue\Monitor tool\11092013\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmAuditTrail.resources
+C:\Documents and Settings\tan.vinh.phan\Desktop\05072013\ITRA revenue\Monitor tool\11092013\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBooking.resources
+C:\Documents and Settings\tan.vinh.phan\Desktop\05072013\ITRA revenue\Monitor tool\11092013\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBookingN.resources
+C:\Documents and Settings\tan.vinh.phan\Desktop\05072013\ITRA revenue\Monitor tool\11092013\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBudgetActualReport.resources
+C:\Documents and Settings\tan.vinh.phan\Desktop\05072013\ITRA revenue\Monitor tool\11092013\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBudgetStaffing.resources
+C:\Documents and Settings\tan.vinh.phan\Desktop\05072013\ITRA revenue\Monitor tool\11092013\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmClient.resources
+C:\Documents and Settings\tan.vinh.phan\Desktop\05072013\ITRA revenue\Monitor tool\11092013\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmClientReport.resources
+C:\Documents and Settings\tan.vinh.phan\Desktop\05072013\ITRA revenue\Monitor tool\11092013\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmClientReport_Popup.resources
+C:\Documents and Settings\tan.vinh.phan\Desktop\05072013\ITRA revenue\Monitor tool\11092013\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmConfiguration.resources
+C:\Documents and Settings\tan.vinh.phan\Desktop\05072013\ITRA revenue\Monitor tool\11092013\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmConnect.resources
+C:\Documents and Settings\tan.vinh.phan\Desktop\05072013\ITRA revenue\Monitor tool\11092013\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmEngagement.resources
+C:\Documents and Settings\tan.vinh.phan\Desktop\05072013\ITRA revenue\Monitor tool\11092013\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmEngagementDetail.resources
+C:\Documents and Settings\tan.vinh.phan\Desktop\05072013\ITRA revenue\Monitor tool\11092013\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmEngSOW_Popup.resources
+C:\Documents and Settings\tan.vinh.phan\Desktop\05072013\ITRA revenue\Monitor tool\11092013\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmImportERP.resources
+C:\Documents and Settings\tan.vinh.phan\Desktop\05072013\ITRA revenue\Monitor tool\11092013\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmIndustry.resources
+C:\Documents and Settings\tan.vinh.phan\Desktop\05072013\ITRA revenue\Monitor tool\11092013\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmInfrastructure.resources
+C:\Documents and Settings\tan.vinh.phan\Desktop\05072013\ITRA revenue\Monitor tool\11092013\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmITRAMember.resources
+C:\Documents and Settings\tan.vinh.phan\Desktop\05072013\ITRA revenue\Monitor tool\11092013\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRate.resources
+C:\Documents and Settings\tan.vinh.phan\Desktop\05072013\ITRA revenue\Monitor tool\11092013\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRateChange.resources
+C:\Documents and Settings\tan.vinh.phan\Desktop\05072013\ITRA revenue\Monitor tool\11092013\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRetainReport.resources
+C:\Documents and Settings\tan.vinh.phan\Desktop\05072013\ITRA revenue\Monitor tool\11092013\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRetain_Popup.resources
+C:\Documents and Settings\tan.vinh.phan\Desktop\05072013\ITRA revenue\Monitor tool\11092013\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRetain_Popup1.resources
+C:\Documents and Settings\tan.vinh.phan\Desktop\05072013\ITRA revenue\Monitor tool\11092013\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRevenueReport.resources
+C:\Documents and Settings\tan.vinh.phan\Desktop\05072013\ITRA revenue\Monitor tool\11092013\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmSystem.resources
+C:\Documents and Settings\tan.vinh.phan\Desktop\05072013\ITRA revenue\Monitor tool\11092013\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmTimesheet.resources
+C:\Documents and Settings\tan.vinh.phan\Desktop\05072013\ITRA revenue\Monitor tool\11092013\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmTimesheet1.resources
+C:\Documents and Settings\tan.vinh.phan\Desktop\05072013\ITRA revenue\Monitor tool\11092013\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmUtilizationReport.resources
+C:\Documents and Settings\tan.vinh.phan\Desktop\05072013\ITRA revenue\Monitor tool\11092013\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmUtilization_Popup.resources
+C:\Documents and Settings\tan.vinh.phan\Desktop\05072013\ITRA revenue\Monitor tool\11092013\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmWebbrowser.resources
+C:\Documents and Settings\tan.vinh.phan\Desktop\05072013\ITRA revenue\Monitor tool\11092013\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmWorkStatus.resources
+C:\Documents and Settings\tan.vinh.phan\Desktop\05072013\ITRA revenue\Monitor tool\11092013\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmWorkStatusReport.resources
+C:\Documents and Settings\tan.vinh.phan\Desktop\05072013\ITRA revenue\Monitor tool\11092013\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.MainForm.resources
+C:\Documents and Settings\tan.vinh.phan\Desktop\05072013\ITRA revenue\Monitor tool\11092013\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\ButtonTree1.ButtonTree.resources
+C:\Documents and Settings\tan.vinh.phan\Desktop\05072013\ITRA revenue\Monitor tool\11092013\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\ButtonTreeUserControl.MenuTreeView.resources
+C:\Documents and Settings\tan.vinh.phan\Desktop\05072013\ITRA revenue\Monitor tool\11092013\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\tan.vinh.phan\Desktop\05072013\ITRA revenue\Monitor tool\11092013\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\tan.vinh.phan\Desktop\05072013\ITRA revenue\Monitor tool\11092013\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1 Monitoring tool.exe
+C:\Documents and Settings\tan.vinh.phan\Desktop\05072013\ITRA revenue\Monitor tool\11092013\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1 Monitoring tool.pdb
+C:\Documents and Settings\tan.vinh.phan\Desktop\05072013\ITRA revenue\Monitor tool\11092013\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\GenerateResource.read.4.tlog
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\C1 Monitoring tool v3.9.9\C1 Monitoring tool\ConnectToSQLServerJE\bin\Debug\C1 Monitoring tool.exe
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\C1 Monitoring tool v3.9.9\C1 Monitoring tool\ConnectToSQLServerJE\bin\Debug\C1 Monitoring tool.pdb
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\C1 Monitoring tool v3.9.9\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\C1 Monitoring tool v3.9.9\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmAuditTrail.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\C1 Monitoring tool v3.9.9\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBooking.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\C1 Monitoring tool v3.9.9\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBookingN.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\C1 Monitoring tool v3.9.9\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBudgetActualReport.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\C1 Monitoring tool v3.9.9\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBudgetStaffing.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\C1 Monitoring tool v3.9.9\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmClient.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\C1 Monitoring tool v3.9.9\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmClientReport.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\C1 Monitoring tool v3.9.9\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmClientReport_Popup.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\C1 Monitoring tool v3.9.9\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmConfiguration.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\C1 Monitoring tool v3.9.9\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmConnect.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\C1 Monitoring tool v3.9.9\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmEngagement.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\C1 Monitoring tool v3.9.9\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmEngagementDetail.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\C1 Monitoring tool v3.9.9\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmEngSOW_Popup.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\C1 Monitoring tool v3.9.9\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmImportERP.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\C1 Monitoring tool v3.9.9\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmIndustry.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\C1 Monitoring tool v3.9.9\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmInfrastructure.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\C1 Monitoring tool v3.9.9\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmITRAMember.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\C1 Monitoring tool v3.9.9\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRate.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\C1 Monitoring tool v3.9.9\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRateChange.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\C1 Monitoring tool v3.9.9\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRetainReport.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\C1 Monitoring tool v3.9.9\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRetain_Popup.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\C1 Monitoring tool v3.9.9\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRetain_Popup1.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\C1 Monitoring tool v3.9.9\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRevenueReport.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\C1 Monitoring tool v3.9.9\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmSystem.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\C1 Monitoring tool v3.9.9\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmTimesheet.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\C1 Monitoring tool v3.9.9\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmTimesheet1.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\C1 Monitoring tool v3.9.9\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmUtilizationReport.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\C1 Monitoring tool v3.9.9\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmUtilization_Popup.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\C1 Monitoring tool v3.9.9\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmWebbrowser.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\C1 Monitoring tool v3.9.9\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmWorkStatus.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\C1 Monitoring tool v3.9.9\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmWorkStatusReport.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\C1 Monitoring tool v3.9.9\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.MainForm.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\C1 Monitoring tool v3.9.9\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\ButtonTree1.ButtonTree.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\C1 Monitoring tool v3.9.9\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\ButtonTreeUserControl.MenuTreeView.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\C1 Monitoring tool v3.9.9\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\C1 Monitoring tool v3.9.9\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\GenerateResource.read.4.tlog
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\C1 Monitoring tool v3.9.9\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\C1 Monitoring tool v3.9.9\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1 Monitoring tool.exe
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\C1 Monitoring tool v3.9.9\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1 Monitoring tool.pdb
+C:\Documents and Settings\an.c.thien.nguyen\My Documents\SharpDevelop Projects\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmClientReport.resources
+C:\Documents and Settings\an.c.thien.nguyen\My Documents\SharpDevelop Projects\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmClientReport_Popup.resources
+C:\Documents and Settings\an.c.thien.nguyen\My Documents\SharpDevelop Projects\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmConnect.resources
+C:\Documents and Settings\an.c.thien.nguyen\My Documents\SharpDevelop Projects\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmUtilization_Popup.resources
+C:\Documents and Settings\an.c.thien.nguyen\My Documents\SharpDevelop Projects\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmWebbrowser.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\v3.9.11\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\v3.9.11\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmAuditTrail.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\v3.9.11\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBooking.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\v3.9.11\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBookingN.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\v3.9.11\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBudgetActualReport.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\v3.9.11\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBudgetStaffing.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\v3.9.11\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmClient.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\v3.9.11\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmClientReport.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\v3.9.11\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmClientReport_Popup.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\v3.9.11\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmConfiguration.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\v3.9.11\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmConnect.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\v3.9.11\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmEngagement.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\v3.9.11\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmEngagementDetail.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\v3.9.11\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmEngSOW_Popup.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\v3.9.11\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmImportERP.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\v3.9.11\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmIndustry.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\v3.9.11\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmInfrastructure.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\v3.9.11\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmITRAMember.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\v3.9.11\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRate.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\v3.9.11\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRateChange.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\v3.9.11\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRetainReport.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\v3.9.11\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRetain_Popup.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\v3.9.11\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRetain_Popup1.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\v3.9.11\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRevenueReport.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\v3.9.11\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmSystem.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\v3.9.11\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmTimesheet.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\v3.9.11\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmTimesheet1.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\v3.9.11\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmUtilizationReport.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\v3.9.11\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmUtilization_Popup.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\v3.9.11\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmWebbrowser.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\v3.9.11\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmWorkStatus.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\v3.9.11\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmWorkStatusReport.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\v3.9.11\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.MainForm.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\v3.9.11\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\ButtonTree1.ButtonTree.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\v3.9.11\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\ButtonTreeUserControl.MenuTreeView.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\v3.9.11\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\v3.9.11\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\GenerateResource.read.4.tlog
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\v3.9.11\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\v3.9.11\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1 Monitoring tool.exe
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\v3.9.11\C1 Monitoring tool\ConnectToSQLServerJE\bin\Debug\C1 Monitoring tool.exe
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\v3.9.11\C1 Monitoring tool\ConnectToSQLServerJE\bin\Debug\C1 Monitoring tool.pdb
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\v3.9.11\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1 Monitoring tool.pdb
+C:\Documents and Settings\tan.vinh.phan\Desktop\05072013\ITRA revenue\Monitor tool\19092013\C1 Monitoring tool\ConnectToSQLServerJE\bin\Debug\C1 Monitoring tool.exe
+C:\Documents and Settings\tan.vinh.phan\Desktop\05072013\ITRA revenue\Monitor tool\19092013\C1 Monitoring tool\ConnectToSQLServerJE\bin\Debug\C1 Monitoring tool.pdb
+C:\Documents and Settings\tan.vinh.phan\Desktop\05072013\ITRA revenue\Monitor tool\19092013\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\tan.vinh.phan\Desktop\05072013\ITRA revenue\Monitor tool\19092013\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmAuditTrail.resources
+C:\Documents and Settings\tan.vinh.phan\Desktop\05072013\ITRA revenue\Monitor tool\19092013\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBooking.resources
+C:\Documents and Settings\tan.vinh.phan\Desktop\05072013\ITRA revenue\Monitor tool\19092013\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBookingN.resources
+C:\Documents and Settings\tan.vinh.phan\Desktop\05072013\ITRA revenue\Monitor tool\19092013\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBudgetActualReport.resources
+C:\Documents and Settings\tan.vinh.phan\Desktop\05072013\ITRA revenue\Monitor tool\19092013\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBudgetStaffing.resources
+C:\Documents and Settings\tan.vinh.phan\Desktop\05072013\ITRA revenue\Monitor tool\19092013\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmClient.resources
+C:\Documents and Settings\tan.vinh.phan\Desktop\05072013\ITRA revenue\Monitor tool\19092013\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmClientReport.resources
+C:\Documents and Settings\tan.vinh.phan\Desktop\05072013\ITRA revenue\Monitor tool\19092013\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmClientReport_Popup.resources
+C:\Documents and Settings\tan.vinh.phan\Desktop\05072013\ITRA revenue\Monitor tool\19092013\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmConfiguration.resources
+C:\Documents and Settings\tan.vinh.phan\Desktop\05072013\ITRA revenue\Monitor tool\19092013\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmConnect.resources
+C:\Documents and Settings\tan.vinh.phan\Desktop\05072013\ITRA revenue\Monitor tool\19092013\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmEngagement.resources
+C:\Documents and Settings\tan.vinh.phan\Desktop\05072013\ITRA revenue\Monitor tool\19092013\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmEngagementDetail.resources
+C:\Documents and Settings\tan.vinh.phan\Desktop\05072013\ITRA revenue\Monitor tool\19092013\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmEngSOW_Popup.resources
+C:\Documents and Settings\tan.vinh.phan\Desktop\05072013\ITRA revenue\Monitor tool\19092013\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmImportERP.resources
+C:\Documents and Settings\tan.vinh.phan\Desktop\05072013\ITRA revenue\Monitor tool\19092013\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmIndustry.resources
+C:\Documents and Settings\tan.vinh.phan\Desktop\05072013\ITRA revenue\Monitor tool\19092013\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmInfrastructure.resources
+C:\Documents and Settings\tan.vinh.phan\Desktop\05072013\ITRA revenue\Monitor tool\19092013\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmITRAMember.resources
+C:\Documents and Settings\tan.vinh.phan\Desktop\05072013\ITRA revenue\Monitor tool\19092013\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRate.resources
+C:\Documents and Settings\tan.vinh.phan\Desktop\05072013\ITRA revenue\Monitor tool\19092013\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRateChange.resources
+C:\Documents and Settings\tan.vinh.phan\Desktop\05072013\ITRA revenue\Monitor tool\19092013\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRetainReport.resources
+C:\Documents and Settings\tan.vinh.phan\Desktop\05072013\ITRA revenue\Monitor tool\19092013\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRetain_Popup.resources
+C:\Documents and Settings\tan.vinh.phan\Desktop\05072013\ITRA revenue\Monitor tool\19092013\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRetain_Popup1.resources
+C:\Documents and Settings\tan.vinh.phan\Desktop\05072013\ITRA revenue\Monitor tool\19092013\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRevenueReport.resources
+C:\Documents and Settings\tan.vinh.phan\Desktop\05072013\ITRA revenue\Monitor tool\19092013\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmSystem.resources
+C:\Documents and Settings\tan.vinh.phan\Desktop\05072013\ITRA revenue\Monitor tool\19092013\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmTimesheet.resources
+C:\Documents and Settings\tan.vinh.phan\Desktop\05072013\ITRA revenue\Monitor tool\19092013\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmTimesheet1.resources
+C:\Documents and Settings\tan.vinh.phan\Desktop\05072013\ITRA revenue\Monitor tool\19092013\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmUtilizationReport.resources
+C:\Documents and Settings\tan.vinh.phan\Desktop\05072013\ITRA revenue\Monitor tool\19092013\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmUtilization_Popup.resources
+C:\Documents and Settings\tan.vinh.phan\Desktop\05072013\ITRA revenue\Monitor tool\19092013\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmWebbrowser.resources
+C:\Documents and Settings\tan.vinh.phan\Desktop\05072013\ITRA revenue\Monitor tool\19092013\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmWorkStatus.resources
+C:\Documents and Settings\tan.vinh.phan\Desktop\05072013\ITRA revenue\Monitor tool\19092013\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmWorkStatusReport.resources
+C:\Documents and Settings\tan.vinh.phan\Desktop\05072013\ITRA revenue\Monitor tool\19092013\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.MainForm.resources
+C:\Documents and Settings\tan.vinh.phan\Desktop\05072013\ITRA revenue\Monitor tool\19092013\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\ButtonTree1.ButtonTree.resources
+C:\Documents and Settings\tan.vinh.phan\Desktop\05072013\ITRA revenue\Monitor tool\19092013\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\ButtonTreeUserControl.MenuTreeView.resources
+C:\Documents and Settings\tan.vinh.phan\Desktop\05072013\ITRA revenue\Monitor tool\19092013\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\tan.vinh.phan\Desktop\05072013\ITRA revenue\Monitor tool\19092013\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\GenerateResource.read.4.tlog
+C:\Documents and Settings\tan.vinh.phan\Desktop\05072013\ITRA revenue\Monitor tool\19092013\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\tan.vinh.phan\Desktop\05072013\ITRA revenue\Monitor tool\19092013\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1 Monitoring tool.exe
+C:\Documents and Settings\tan.vinh.phan\Desktop\05072013\ITRA revenue\Monitor tool\19092013\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1 Monitoring tool.pdb
+C:\Users\Public\Documents\SametimeFileTransfer\C1 Monitoring tool\ConnectToSQLServerJE\bin\Debug\C1 Monitoring tool.exe
+C:\Users\Public\Documents\SametimeFileTransfer\C1 Monitoring tool\ConnectToSQLServerJE\bin\Debug\C1 Monitoring tool.pdb
+C:\Users\Public\Documents\SametimeFileTransfer\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Public\Documents\SametimeFileTransfer\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmAuditTrail.resources
+C:\Users\Public\Documents\SametimeFileTransfer\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBooking.resources
+C:\Users\Public\Documents\SametimeFileTransfer\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBookingN.resources
+C:\Users\Public\Documents\SametimeFileTransfer\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBudgetActualReport.resources
+C:\Users\Public\Documents\SametimeFileTransfer\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBudgetStaffing.resources
+C:\Users\Public\Documents\SametimeFileTransfer\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmClient.resources
+C:\Users\Public\Documents\SametimeFileTransfer\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmClientReport.resources
+C:\Users\Public\Documents\SametimeFileTransfer\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmClientReport_Popup.resources
+C:\Users\Public\Documents\SametimeFileTransfer\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmConfiguration.resources
+C:\Users\Public\Documents\SametimeFileTransfer\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmConnect.resources
+C:\Users\Public\Documents\SametimeFileTransfer\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmEngagement.resources
+C:\Users\Public\Documents\SametimeFileTransfer\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmEngagementDetail.resources
+C:\Users\Public\Documents\SametimeFileTransfer\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmEngSOW_Popup.resources
+C:\Users\Public\Documents\SametimeFileTransfer\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmImportERP.resources
+C:\Users\Public\Documents\SametimeFileTransfer\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmIndustry.resources
+C:\Users\Public\Documents\SametimeFileTransfer\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmInfrastructure.resources
+C:\Users\Public\Documents\SametimeFileTransfer\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmITRAMember.resources
+C:\Users\Public\Documents\SametimeFileTransfer\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRate.resources
+C:\Users\Public\Documents\SametimeFileTransfer\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRateChange.resources
+C:\Users\Public\Documents\SametimeFileTransfer\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRetainReport.resources
+C:\Users\Public\Documents\SametimeFileTransfer\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRetain_Popup.resources
+C:\Users\Public\Documents\SametimeFileTransfer\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRetain_Popup1.resources
+C:\Users\Public\Documents\SametimeFileTransfer\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRevenueReport.resources
+C:\Users\Public\Documents\SametimeFileTransfer\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmSystem.resources
+C:\Users\Public\Documents\SametimeFileTransfer\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmTimesheet.resources
+C:\Users\Public\Documents\SametimeFileTransfer\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmTimesheet1.resources
+C:\Users\Public\Documents\SametimeFileTransfer\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmUtilizationReport.resources
+C:\Users\Public\Documents\SametimeFileTransfer\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmUtilization_Popup.resources
+C:\Users\Public\Documents\SametimeFileTransfer\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmWebbrowser.resources
+C:\Users\Public\Documents\SametimeFileTransfer\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmWorkStatus.resources
+C:\Users\Public\Documents\SametimeFileTransfer\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmWorkStatusReport.resources
+C:\Users\Public\Documents\SametimeFileTransfer\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.MainForm.resources
+C:\Users\Public\Documents\SametimeFileTransfer\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\ButtonTree1.ButtonTree.resources
+C:\Users\Public\Documents\SametimeFileTransfer\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\ButtonTreeUserControl.MenuTreeView.resources
+C:\Users\Public\Documents\SametimeFileTransfer\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Public\Documents\SametimeFileTransfer\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\GenerateResource.read.4.tlog
+C:\Users\Public\Documents\SametimeFileTransfer\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Public\Documents\SametimeFileTransfer\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1 Monitoring tool.exe
+C:\Users\Public\Documents\SametimeFileTransfer\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1 Monitoring tool.pdb
+C:\Users\luan.khanh.ha\Desktop\ITRA\04. Soft\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\luan.khanh.ha\Desktop\ITRA\04. Soft\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmAuditTrail.resources
+C:\Users\luan.khanh.ha\Desktop\ITRA\04. Soft\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBooking.resources
+C:\Users\luan.khanh.ha\Desktop\ITRA\04. Soft\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBookingN.resources
+C:\Users\luan.khanh.ha\Desktop\ITRA\04. Soft\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBudgetActualReport.resources
+C:\Users\luan.khanh.ha\Desktop\ITRA\04. Soft\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBudgetStaffing.resources
+C:\Users\luan.khanh.ha\Desktop\ITRA\04. Soft\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmClient.resources
+C:\Users\luan.khanh.ha\Desktop\ITRA\04. Soft\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmClientReport.resources
+C:\Users\luan.khanh.ha\Desktop\ITRA\04. Soft\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmClientReport_Popup.resources
+C:\Users\luan.khanh.ha\Desktop\ITRA\04. Soft\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmConfiguration.resources
+C:\Users\luan.khanh.ha\Desktop\ITRA\04. Soft\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmConnect.resources
+C:\Users\luan.khanh.ha\Desktop\ITRA\04. Soft\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmEngagement.resources
+C:\Users\luan.khanh.ha\Desktop\ITRA\04. Soft\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmEngagementDetail.resources
+C:\Users\luan.khanh.ha\Desktop\ITRA\04. Soft\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmEngSOW_Popup.resources
+C:\Users\luan.khanh.ha\Desktop\ITRA\04. Soft\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmImportERP.resources
+C:\Users\luan.khanh.ha\Desktop\ITRA\04. Soft\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmIndustry.resources
+C:\Users\luan.khanh.ha\Desktop\ITRA\04. Soft\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmInfrastructure.resources
+C:\Users\luan.khanh.ha\Desktop\ITRA\04. Soft\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmITRAMember.resources
+C:\Users\luan.khanh.ha\Desktop\ITRA\04. Soft\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRate.resources
+C:\Users\luan.khanh.ha\Desktop\ITRA\04. Soft\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRateChange.resources
+C:\Users\luan.khanh.ha\Desktop\ITRA\04. Soft\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRetainReport.resources
+C:\Users\luan.khanh.ha\Desktop\ITRA\04. Soft\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRetain_Popup.resources
+C:\Users\luan.khanh.ha\Desktop\ITRA\04. Soft\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRetain_Popup1.resources
+C:\Users\luan.khanh.ha\Desktop\ITRA\04. Soft\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRevenueReport.resources
+C:\Users\luan.khanh.ha\Desktop\ITRA\04. Soft\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmSystem.resources
+C:\Users\luan.khanh.ha\Desktop\ITRA\04. Soft\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmTimesheet.resources
+C:\Users\luan.khanh.ha\Desktop\ITRA\04. Soft\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmTimesheet1.resources
+C:\Users\luan.khanh.ha\Desktop\ITRA\04. Soft\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmUtilizationReport.resources
+C:\Users\luan.khanh.ha\Desktop\ITRA\04. Soft\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmUtilization_Popup.resources
+C:\Users\luan.khanh.ha\Desktop\ITRA\04. Soft\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmWebbrowser.resources
+C:\Users\luan.khanh.ha\Desktop\ITRA\04. Soft\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmWorkStatus.resources
+C:\Users\luan.khanh.ha\Desktop\ITRA\04. Soft\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmWorkStatusReport.resources
+C:\Users\luan.khanh.ha\Desktop\ITRA\04. Soft\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.MainForm.resources
+C:\Users\luan.khanh.ha\Desktop\ITRA\04. Soft\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\ButtonTree1.ButtonTree.resources
+C:\Users\luan.khanh.ha\Desktop\ITRA\04. Soft\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\ButtonTreeUserControl.MenuTreeView.resources
+C:\Users\luan.khanh.ha\Desktop\ITRA\04. Soft\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\luan.khanh.ha\Desktop\ITRA\04. Soft\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\GenerateResource.read.4.tlog
+C:\Users\luan.khanh.ha\Desktop\ITRA\04. Soft\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\luan.khanh.ha\Desktop\ITRA\04. Soft\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.NewMainForm.resources
+C:\Users\luan.khanh.ha\Desktop\ITRA\04. Soft\C1 Monitoring tool\ConnectToSQLServerJE\bin\Debug\CMT.exe
+C:\Users\luan.khanh.ha\Desktop\ITRA\04. Soft\C1 Monitoring tool\ConnectToSQLServerJE\bin\Debug\CMT.pdb
+C:\Users\luan.khanh.ha\Desktop\ITRA\04. Soft\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\CMT.exe
+C:\Users\luan.khanh.ha\Desktop\ITRA\04. Soft\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\CMT.pdb
+E:\luan.khanh.ha\C1 Monitoring tool\ConnectToSQLServerJE\bin\Debug\CMT.exe
+E:\luan.khanh.ha\C1 Monitoring tool\ConnectToSQLServerJE\bin\Debug\CMT.pdb
+E:\luan.khanh.ha\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\ResolveAssemblyReference.cache
+E:\luan.khanh.ha\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmAuditTrail.resources
+E:\luan.khanh.ha\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBooking.resources
+E:\luan.khanh.ha\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBookingN.resources
+E:\luan.khanh.ha\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBudgetActualReport.resources
+E:\luan.khanh.ha\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBudgetStaffing.resources
+E:\luan.khanh.ha\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmClient.resources
+E:\luan.khanh.ha\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmClientReport.resources
+E:\luan.khanh.ha\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmClientReport_Popup.resources
+E:\luan.khanh.ha\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmConfiguration.resources
+E:\luan.khanh.ha\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmConnect.resources
+E:\luan.khanh.ha\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmEngagement.resources
+E:\luan.khanh.ha\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmEngagementDetail.resources
+E:\luan.khanh.ha\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmEngSOW_Popup.resources
+E:\luan.khanh.ha\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmImportERP.resources
+E:\luan.khanh.ha\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmIndustry.resources
+E:\luan.khanh.ha\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmInfrastructure.resources
+E:\luan.khanh.ha\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmITRAMember.resources
+E:\luan.khanh.ha\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRate.resources
+E:\luan.khanh.ha\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRateChange.resources
+E:\luan.khanh.ha\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRetainReport.resources
+E:\luan.khanh.ha\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRetain_Popup.resources
+E:\luan.khanh.ha\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRetain_Popup1.resources
+E:\luan.khanh.ha\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRevenueReport.resources
+E:\luan.khanh.ha\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmSystem.resources
+E:\luan.khanh.ha\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmTimesheet.resources
+E:\luan.khanh.ha\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmTimesheet1.resources
+E:\luan.khanh.ha\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmUtilizationReport.resources
+E:\luan.khanh.ha\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmUtilization_Popup.resources
+E:\luan.khanh.ha\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmWebbrowser.resources
+E:\luan.khanh.ha\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmWorkStatus.resources
+E:\luan.khanh.ha\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmWorkStatusReport.resources
+E:\luan.khanh.ha\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.MainForm.resources
+E:\luan.khanh.ha\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.NewMainForm.resources
+E:\luan.khanh.ha\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\ButtonTree1.ButtonTree.resources
+E:\luan.khanh.ha\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\ButtonTreeUserControl.MenuTreeView.resources
+E:\luan.khanh.ha\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\GenerateResource.read.1.tlog
+E:\luan.khanh.ha\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\GenerateResource.read.4.tlog
+E:\luan.khanh.ha\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\GenerateResource.write.1.tlog
+E:\luan.khanh.ha\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\CMT.exe
+E:\luan.khanh.ha\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\CMT.pdb
+C:\Users\an.c.thien.nguyen\Desktop\C1 Monitoring tool\ConnectToSQLServerJE\bin\Debug\CMT.exe
+C:\Users\an.c.thien.nguyen\Desktop\C1 Monitoring tool\ConnectToSQLServerJE\bin\Debug\CMT.pdb
+C:\Users\an.c.thien.nguyen\Desktop\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\an.c.thien.nguyen\Desktop\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmAuditTrail.resources
+C:\Users\an.c.thien.nguyen\Desktop\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBooking.resources
+C:\Users\an.c.thien.nguyen\Desktop\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBookingN.resources
+C:\Users\an.c.thien.nguyen\Desktop\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBudgetActualReport.resources
+C:\Users\an.c.thien.nguyen\Desktop\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBudgetStaffing.resources
+C:\Users\an.c.thien.nguyen\Desktop\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmClient.resources
+C:\Users\an.c.thien.nguyen\Desktop\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmClientReport.resources
+C:\Users\an.c.thien.nguyen\Desktop\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmClientReport_Popup.resources
+C:\Users\an.c.thien.nguyen\Desktop\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmConfiguration.resources
+C:\Users\an.c.thien.nguyen\Desktop\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmConnect.resources
+C:\Users\an.c.thien.nguyen\Desktop\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmEngagement.resources
+C:\Users\an.c.thien.nguyen\Desktop\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmEngagementDetail.resources
+C:\Users\an.c.thien.nguyen\Desktop\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmEngSOW_Popup.resources
+C:\Users\an.c.thien.nguyen\Desktop\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmImportERP.resources
+C:\Users\an.c.thien.nguyen\Desktop\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmIndustry.resources
+C:\Users\an.c.thien.nguyen\Desktop\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmInfrastructure.resources
+C:\Users\an.c.thien.nguyen\Desktop\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmITRAMember.resources
+C:\Users\an.c.thien.nguyen\Desktop\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRate.resources
+C:\Users\an.c.thien.nguyen\Desktop\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRateChange.resources
+C:\Users\an.c.thien.nguyen\Desktop\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRetainReport.resources
+C:\Users\an.c.thien.nguyen\Desktop\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRetain_Popup.resources
+C:\Users\an.c.thien.nguyen\Desktop\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRetain_Popup1.resources
+C:\Users\an.c.thien.nguyen\Desktop\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRevenueReport.resources
+C:\Users\an.c.thien.nguyen\Desktop\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmSystem.resources
+C:\Users\an.c.thien.nguyen\Desktop\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmTimesheet.resources
+C:\Users\an.c.thien.nguyen\Desktop\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmTimesheet1.resources
+C:\Users\an.c.thien.nguyen\Desktop\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmUtilizationReport.resources
+C:\Users\an.c.thien.nguyen\Desktop\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmUtilization_Popup.resources
+C:\Users\an.c.thien.nguyen\Desktop\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmWebbrowser.resources
+C:\Users\an.c.thien.nguyen\Desktop\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmWorkStatus.resources
+C:\Users\an.c.thien.nguyen\Desktop\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmWorkStatusReport.resources
+C:\Users\an.c.thien.nguyen\Desktop\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.MainForm.resources
+C:\Users\an.c.thien.nguyen\Desktop\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.NewMainForm.resources
+C:\Users\an.c.thien.nguyen\Desktop\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\ButtonTree1.ButtonTree.resources
+C:\Users\an.c.thien.nguyen\Desktop\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\ButtonTreeUserControl.MenuTreeView.resources
+C:\Users\an.c.thien.nguyen\Desktop\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\an.c.thien.nguyen\Desktop\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\an.c.thien.nguyen\Desktop\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\CMT.exe
+C:\Users\an.c.thien.nguyen\Desktop\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\CMT.pdb
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT v4.1\C1 Monitoring tool\ConnectToSQLServerJE\bin\Debug\CMT.exe
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT v4.1\C1 Monitoring tool\ConnectToSQLServerJE\bin\Debug\CMT.pdb
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT v4.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT v4.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmAuditTrail.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT v4.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBooking.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT v4.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBookingN.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT v4.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBudgetActualReport.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT v4.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBudgetStaffing.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT v4.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmClient.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT v4.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmClientReport.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT v4.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmClientReport_Popup.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT v4.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmConfiguration.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT v4.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmConnect.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT v4.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmEngagement.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT v4.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmEngagementDetail.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT v4.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmEngSOW_Popup.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT v4.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmImportERP.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT v4.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmIndustry.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT v4.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmInfrastructure.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT v4.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmITRAMember.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT v4.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRate.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT v4.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRateChange.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT v4.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRetainReport.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT v4.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRetain_Popup.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT v4.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRetain_Popup1.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT v4.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRevenueReport.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT v4.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmSystem.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT v4.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmTimesheet.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT v4.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmTimesheet1.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT v4.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmUtilizationReport.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT v4.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmUtilization_Popup.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT v4.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmWebbrowser.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT v4.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmWorkStatus.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT v4.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmWorkStatusReport.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT v4.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.MainForm.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT v4.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.NewMainForm.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT v4.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\ButtonTree1.ButtonTree.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT v4.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\ButtonTreeUserControl.MenuTreeView.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT v4.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT v4.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT v4.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\CMT.exe
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT v4.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\CMT.pdb
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT v4.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmPipeline1.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT v4.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmC2Pineline.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT v4.1\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmClientPosition.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\13082014\C1 Monitoring tool\ConnectToSQLServerJE\bin\Debug\CMT.exe
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\13082014\C1 Monitoring tool\ConnectToSQLServerJE\bin\Debug\CMT.pdb
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\13082014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\13082014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmAuditTrail.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\13082014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBooking.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\13082014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBookingN.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\13082014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBudgetActualReport.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\13082014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBudgetStaffing.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\13082014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmC2Pineline.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\13082014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmClient.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\13082014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmClientPosition.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\13082014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmClientReport.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\13082014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmClientReport_Popup.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\13082014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmConfiguration.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\13082014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmConnect.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\13082014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmEngagement.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\13082014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmEngagementDetail.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\13082014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmEngSOW_Popup.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\13082014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmImportERP.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\13082014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmIndustry.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\13082014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmInfrastructure.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\13082014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmITRAMember.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\13082014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmPipeline1.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\13082014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRate.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\13082014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRateChange.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\13082014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRetainReport.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\13082014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRetain_Popup.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\13082014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRetain_Popup1.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\13082014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRevenueReport.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\13082014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmSystem.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\13082014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmTimesheet.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\13082014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmTimesheet1.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\13082014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmUtilizationReport.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\13082014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmUtilization_Popup.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\13082014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmWebbrowser.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\13082014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmWorkStatus.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\13082014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmWorkStatusReport.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\13082014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.MainForm.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\13082014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.NewMainForm.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\13082014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\ButtonTree1.ButtonTree.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\13082014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\ButtonTreeUserControl.MenuTreeView.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\13082014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\13082014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\13082014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\CMT.exe
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\13082014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\CMT.pdb
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\13082014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBudgetActualReport_popup.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\13082014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRevenue_popup.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\13082014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmInformation.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\13082014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmC2Engagement.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\13082014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmCRM.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\13082014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmCRM_popup.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\13082014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmClientApplication.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\13082014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmmainform.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\13082014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmNews.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT 05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT 05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmAuditTrail.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT 05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBooking.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT 05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBookingN.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT 05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBudgetActualReport.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT 05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBudgetActualReport_popup.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT 05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBudgetStaffing.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT 05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmC2Engagement.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT 05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmC2Pineline.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT 05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmClient.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT 05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmClientApplication.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT 05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmClientPosition.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT 05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmClientReport.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT 05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmClientReport_Popup.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT 05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmConfiguration.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT 05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmConnect.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT 05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmCRM.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT 05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmCRM_popup.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT 05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmEngagement.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT 05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmEngagementDetail.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT 05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmEngSOW_Popup.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT 05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmImportERP.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT 05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmIndustry.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT 05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmInformation.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT 05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmInfrastructure.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT 05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmITRAMember.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT 05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmmainform.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT 05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmNews.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT 05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmPipeline1.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT 05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRate.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT 05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRateChange.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT 05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRetainReport.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT 05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRetain_Popup.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT 05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRetain_Popup1.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT 05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRevenueReport.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT 05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRevenue_popup.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT 05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmSystem.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT 05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmTimesheet.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT 05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmTimesheet1.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT 05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmUtilizationReport.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT 05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmUtilization_Popup.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT 05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmWebbrowser.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT 05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmWorkStatus.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT 05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmWorkStatusReport.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT 05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.MainForm.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT 05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.NewMainForm.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT 05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\ButtonTree1.ButtonTree.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT 05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\ButtonTreeUserControl.MenuTreeView.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT 05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT 05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT 05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\CMT.exe
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT 05092014\C1 Monitoring tool\ConnectToSQLServerJE\bin\Debug\CMT.exe
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT 05092014\C1 Monitoring tool\ConnectToSQLServerJE\bin\Debug\CMT.pdb
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT 05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmIndustrySelection.resources
+C:\Users\luan.khanh.ha\Documents\SharpDevelop Projects\CMT 05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\CMT.pdb
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\05092014\C1 Monitoring tool\ConnectToSQLServerJE\bin\Debug\CMT.exe
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\05092014\C1 Monitoring tool\ConnectToSQLServerJE\bin\Debug\CMT.pdb
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmAuditTrail.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBooking.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBookingN.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBudgetActualReport.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBudgetActualReport_popup.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBudgetStaffing.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmC2Engagement.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmC2Pineline.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmClient.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmClientApplication.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmClientPosition.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmClientReport.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmClientReport_Popup.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmConfiguration.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmConnect.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmCRM.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmCRM_popup.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmEngagement.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmEngagementDetail.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmEngSOW_Popup.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmImportERP.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmIndustry.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmIndustrySelection.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmInformation.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmInfrastructure.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmITRAMember.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmmainform.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmNews.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmPipeline1.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRate.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRateChange.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRetainReport.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRetain_Popup.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRetain_Popup1.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRevenueReport.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRevenue_popup.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmSystem.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmTimesheet.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmTimesheet1.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmUtilizationReport.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmUtilization_Popup.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmWebbrowser.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmWorkStatus.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmWorkStatusReport.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.MainForm.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.NewMainForm.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\ButtonTree1.ButtonTree.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\ButtonTreeUserControl.MenuTreeView.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\CMT.exe
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\05092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\CMT.pdb
+C:\Users\chi.khanh.nguyen\Desktop\CKN\C1MT v3.9\C1 Monitoring tool\Tool check 20140908\C1 Monitoring tool\ConnectToSQLServerJE\bin\Debug\CMT.exe
+C:\Users\chi.khanh.nguyen\Desktop\CKN\C1MT v3.9\C1 Monitoring tool\Tool check 20140908\C1 Monitoring tool\ConnectToSQLServerJE\bin\Debug\CMT.pdb
+C:\Users\chi.khanh.nguyen\Desktop\CKN\C1MT v3.9\C1 Monitoring tool\Tool check 20140908\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\chi.khanh.nguyen\Desktop\CKN\C1MT v3.9\C1 Monitoring tool\Tool check 20140908\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmAuditTrail.resources
+C:\Users\chi.khanh.nguyen\Desktop\CKN\C1MT v3.9\C1 Monitoring tool\Tool check 20140908\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBooking.resources
+C:\Users\chi.khanh.nguyen\Desktop\CKN\C1MT v3.9\C1 Monitoring tool\Tool check 20140908\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBookingN.resources
+C:\Users\chi.khanh.nguyen\Desktop\CKN\C1MT v3.9\C1 Monitoring tool\Tool check 20140908\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBudgetActualReport.resources
+C:\Users\chi.khanh.nguyen\Desktop\CKN\C1MT v3.9\C1 Monitoring tool\Tool check 20140908\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBudgetActualReport_popup.resources
+C:\Users\chi.khanh.nguyen\Desktop\CKN\C1MT v3.9\C1 Monitoring tool\Tool check 20140908\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBudgetStaffing.resources
+C:\Users\chi.khanh.nguyen\Desktop\CKN\C1MT v3.9\C1 Monitoring tool\Tool check 20140908\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmC2Engagement.resources
+C:\Users\chi.khanh.nguyen\Desktop\CKN\C1MT v3.9\C1 Monitoring tool\Tool check 20140908\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmC2Pineline.resources
+C:\Users\chi.khanh.nguyen\Desktop\CKN\C1MT v3.9\C1 Monitoring tool\Tool check 20140908\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmClient.resources
+C:\Users\chi.khanh.nguyen\Desktop\CKN\C1MT v3.9\C1 Monitoring tool\Tool check 20140908\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmClientApplication.resources
+C:\Users\chi.khanh.nguyen\Desktop\CKN\C1MT v3.9\C1 Monitoring tool\Tool check 20140908\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmClientPosition.resources
+C:\Users\chi.khanh.nguyen\Desktop\CKN\C1MT v3.9\C1 Monitoring tool\Tool check 20140908\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmClientReport.resources
+C:\Users\chi.khanh.nguyen\Desktop\CKN\C1MT v3.9\C1 Monitoring tool\Tool check 20140908\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmClientReport_Popup.resources
+C:\Users\chi.khanh.nguyen\Desktop\CKN\C1MT v3.9\C1 Monitoring tool\Tool check 20140908\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmConfiguration.resources
+C:\Users\chi.khanh.nguyen\Desktop\CKN\C1MT v3.9\C1 Monitoring tool\Tool check 20140908\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmConnect.resources
+C:\Users\chi.khanh.nguyen\Desktop\CKN\C1MT v3.9\C1 Monitoring tool\Tool check 20140908\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmCRM.resources
+C:\Users\chi.khanh.nguyen\Desktop\CKN\C1MT v3.9\C1 Monitoring tool\Tool check 20140908\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmCRM_popup.resources
+C:\Users\chi.khanh.nguyen\Desktop\CKN\C1MT v3.9\C1 Monitoring tool\Tool check 20140908\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmEngagement.resources
+C:\Users\chi.khanh.nguyen\Desktop\CKN\C1MT v3.9\C1 Monitoring tool\Tool check 20140908\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmEngagementDetail.resources
+C:\Users\chi.khanh.nguyen\Desktop\CKN\C1MT v3.9\C1 Monitoring tool\Tool check 20140908\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmEngSOW_Popup.resources
+C:\Users\chi.khanh.nguyen\Desktop\CKN\C1MT v3.9\C1 Monitoring tool\Tool check 20140908\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmImportERP.resources
+C:\Users\chi.khanh.nguyen\Desktop\CKN\C1MT v3.9\C1 Monitoring tool\Tool check 20140908\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmIndustry.resources
+C:\Users\chi.khanh.nguyen\Desktop\CKN\C1MT v3.9\C1 Monitoring tool\Tool check 20140908\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmIndustrySelection.resources
+C:\Users\chi.khanh.nguyen\Desktop\CKN\C1MT v3.9\C1 Monitoring tool\Tool check 20140908\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmInformation.resources
+C:\Users\chi.khanh.nguyen\Desktop\CKN\C1MT v3.9\C1 Monitoring tool\Tool check 20140908\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmInfrastructure.resources
+C:\Users\chi.khanh.nguyen\Desktop\CKN\C1MT v3.9\C1 Monitoring tool\Tool check 20140908\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmITRAMember.resources
+C:\Users\chi.khanh.nguyen\Desktop\CKN\C1MT v3.9\C1 Monitoring tool\Tool check 20140908\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmmainform.resources
+C:\Users\chi.khanh.nguyen\Desktop\CKN\C1MT v3.9\C1 Monitoring tool\Tool check 20140908\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmNews.resources
+C:\Users\chi.khanh.nguyen\Desktop\CKN\C1MT v3.9\C1 Monitoring tool\Tool check 20140908\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmPipeline1.resources
+C:\Users\chi.khanh.nguyen\Desktop\CKN\C1MT v3.9\C1 Monitoring tool\Tool check 20140908\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRate.resources
+C:\Users\chi.khanh.nguyen\Desktop\CKN\C1MT v3.9\C1 Monitoring tool\Tool check 20140908\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRateChange.resources
+C:\Users\chi.khanh.nguyen\Desktop\CKN\C1MT v3.9\C1 Monitoring tool\Tool check 20140908\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRetainReport.resources
+C:\Users\chi.khanh.nguyen\Desktop\CKN\C1MT v3.9\C1 Monitoring tool\Tool check 20140908\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRetain_Popup.resources
+C:\Users\chi.khanh.nguyen\Desktop\CKN\C1MT v3.9\C1 Monitoring tool\Tool check 20140908\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRetain_Popup1.resources
+C:\Users\chi.khanh.nguyen\Desktop\CKN\C1MT v3.9\C1 Monitoring tool\Tool check 20140908\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRevenueReport.resources
+C:\Users\chi.khanh.nguyen\Desktop\CKN\C1MT v3.9\C1 Monitoring tool\Tool check 20140908\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRevenue_popup.resources
+C:\Users\chi.khanh.nguyen\Desktop\CKN\C1MT v3.9\C1 Monitoring tool\Tool check 20140908\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmSystem.resources
+C:\Users\chi.khanh.nguyen\Desktop\CKN\C1MT v3.9\C1 Monitoring tool\Tool check 20140908\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmTimesheet.resources
+C:\Users\chi.khanh.nguyen\Desktop\CKN\C1MT v3.9\C1 Monitoring tool\Tool check 20140908\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmTimesheet1.resources
+C:\Users\chi.khanh.nguyen\Desktop\CKN\C1MT v3.9\C1 Monitoring tool\Tool check 20140908\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmUtilizationReport.resources
+C:\Users\chi.khanh.nguyen\Desktop\CKN\C1MT v3.9\C1 Monitoring tool\Tool check 20140908\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmUtilization_Popup.resources
+C:\Users\chi.khanh.nguyen\Desktop\CKN\C1MT v3.9\C1 Monitoring tool\Tool check 20140908\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmWebbrowser.resources
+C:\Users\chi.khanh.nguyen\Desktop\CKN\C1MT v3.9\C1 Monitoring tool\Tool check 20140908\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmWorkStatus.resources
+C:\Users\chi.khanh.nguyen\Desktop\CKN\C1MT v3.9\C1 Monitoring tool\Tool check 20140908\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmWorkStatusReport.resources
+C:\Users\chi.khanh.nguyen\Desktop\CKN\C1MT v3.9\C1 Monitoring tool\Tool check 20140908\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.MainForm.resources
+C:\Users\chi.khanh.nguyen\Desktop\CKN\C1MT v3.9\C1 Monitoring tool\Tool check 20140908\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.NewMainForm.resources
+C:\Users\chi.khanh.nguyen\Desktop\CKN\C1MT v3.9\C1 Monitoring tool\Tool check 20140908\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\ButtonTree1.ButtonTree.resources
+C:\Users\chi.khanh.nguyen\Desktop\CKN\C1MT v3.9\C1 Monitoring tool\Tool check 20140908\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\ButtonTreeUserControl.MenuTreeView.resources
+C:\Users\chi.khanh.nguyen\Desktop\CKN\C1MT v3.9\C1 Monitoring tool\Tool check 20140908\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\chi.khanh.nguyen\Desktop\CKN\C1MT v3.9\C1 Monitoring tool\Tool check 20140908\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\chi.khanh.nguyen\Desktop\CKN\C1MT v3.9\C1 Monitoring tool\Tool check 20140908\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\CMT.exe
+C:\Users\chi.khanh.nguyen\Desktop\CKN\C1MT v3.9\C1 Monitoring tool\Tool check 20140908\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\CMT.pdb
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\09092014\C1 Monitoring tool\ConnectToSQLServerJE\bin\Debug\CMT.exe
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\09092014\C1 Monitoring tool\ConnectToSQLServerJE\bin\Debug\CMT.pdb
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\09092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\09092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmAuditTrail.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\09092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBooking.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\09092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBookingN.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\09092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBudgetActualReport.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\09092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBudgetActualReport_popup.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\09092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmBudgetStaffing.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\09092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmC2Engagement.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\09092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmC2Pineline.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\09092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmClient.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\09092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmClientApplication.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\09092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmClientPosition.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\09092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmClientReport.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\09092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmClientReport_Popup.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\09092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmConfiguration.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\09092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmConnect.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\09092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmCRM.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\09092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmCRM_popup.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\09092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmEngagement.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\09092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmEngagementDetail.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\09092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmEngSOW_Popup.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\09092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmImportERP.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\09092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmIndustry.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\09092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmIndustrySelection.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\09092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmInformation.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\09092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmInfrastructure.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\09092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmITRAMember.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\09092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmmainform.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\09092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmNews.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\09092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmPipeline1.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\09092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRate.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\09092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRateChange.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\09092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRetainReport.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\09092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRetain_Popup.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\09092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRetain_Popup1.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\09092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRevenueReport.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\09092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRevenue_popup.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\09092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmSystem.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\09092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmTimesheet.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\09092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmTimesheet1.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\09092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmUtilizationReport.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\09092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmUtilization_Popup.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\09092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmWebbrowser.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\09092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmWorkStatus.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\09092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmWorkStatusReport.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\09092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.MainForm.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\09092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.NewMainForm.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\09092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\ButtonTree1.ButtonTree.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\09092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\ButtonTreeUserControl.MenuTreeView.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\09092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\09092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\09092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\CMT.exe
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\09092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\CMT.pdb
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\09092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmmainform_popup.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\09092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmC2Pipelinereport.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\09092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmC2Engagementreport.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\09092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmC2BudgetStaffing.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\09092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmC2Booking.resources
+C:\Users\tan.vinh.phan\Documents\Vinhtanphan-giu lai\C1 Monitoring tool\09092014\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\C1Monitoring.frmRevenueWeeklyReport.resources

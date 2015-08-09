@@ -1,0 +1,499 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <ProjectGuid>{A89C98AE-8F55-49C8-88BB-B1112BA0B910}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>C1Monitoring</RootNamespace>
+    <AssemblyName>CMT</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <NoWin32Manifest>False</NoWin32Manifest>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Platform)' == 'AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <DebugSymbols>True</DebugSymbols>
+    <DebugType>Full</DebugType>
+    <Optimize>False</Optimize>
+    <CheckForOverflowUnderflow>True</CheckForOverflowUnderflow>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <DebugSymbols>False</DebugSymbols>
+    <DebugType>None</DebugType>
+    <Optimize>True</Optimize>
+    <CheckForOverflowUnderflow>False</CheckForOverflowUnderflow>
+    <DefineConstants>TRACE</DefineConstants>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DgvFilterPopup">
+      <HintPath>bin\Debug\DgvFilterPopup.dll</HintPath>
+    </Reference>
+    <Reference Include="HtmlAgilityPack">
+      <HintPath>bin\Debug\HtmlAgilityPack.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel" />
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DataConnection\dcClient_New.cs" />
+    <Compile Include="DataConnection\dcCRM.cs" />
+    <Compile Include="DataConnection\dcMainboard.cs" />
+    <Compile Include="DataConnection\dcNews.cs" />
+    <Compile Include="DataConnection\dcPipeline.cs" />
+    <Compile Include="DataConnection\DataConnect.cs" />
+    <Compile Include="DataConnection\dcActivity.cs" />
+    <Compile Include="DataConnection\dcApp.cs" />
+    <Compile Include="DataConnection\dcAuditTrail.cs" />
+    <Compile Include="DataConnection\dcBudgetStaffing.cs" />
+    <Compile Include="DataConnection\dcClient.cs" />
+    <Compile Include="DataConnection\dcClientReport.cs" />
+    <Compile Include="DataConnection\dcClien_Industry.cs" />
+    <Compile Include="DataConnection\dcDB.cs" />
+    <Compile Include="DataConnection\dcEngagement.cs" />
+    <Compile Include="DataConnection\dcEngagementDetail.cs" />
+    <Compile Include="DataConnection\dcEngagement_Industry.cs" />
+    <Compile Include="DataConnection\dcImportERP.cs" />
+    <Compile Include="DataConnection\dcImportSoldTime.cs" />
+    <Compile Include="DataConnection\dcIndustry.cs" />
+    <Compile Include="DataConnection\dcInfrastructure.cs" />
+    <Compile Include="DataConnection\dcITRAMember.cs" />
+    <Compile Include="DataConnection\dcMatrixRole.cs" />
+    <Compile Include="DataConnection\dcOS.cs" />
+    <Compile Include="DataConnection\dcPeakSeasonMember.cs" />
+    <Compile Include="DataConnection\dcPeakSeasonTarget.cs" />
+    <Compile Include="DataConnection\dcPosition.cs" />
+    <Compile Include="DataConnection\dcRate.cs" />
+    <Compile Include="DataConnection\dcRateChange.cs" />
+    <Compile Include="DataConnection\dcRetain.cs" />
+    <Compile Include="DataConnection\dcRetainReport.cs" />
+    <Compile Include="DataConnection\dcRevenue.cs" />
+    <Compile Include="DataConnection\dcSOW.cs" />
+    <Compile Include="DataConnection\dcStandardHour.cs" />
+    <Compile Include="DataConnection\dcTimesheet.cs" />
+    <Compile Include="DataConnection\dcTimesheet1.cs" />
+    <Compile Include="DataConnection\dcUtilizationReport.cs" />
+    <Compile Include="DataConnection\dcWeekEndGeneration.cs" />
+    <Compile Include="DataConnection\dcWorkSatusReport.cs" />
+    <Compile Include="DataConnection\dcWorkStatus.cs" />
+    <Compile Include="Forms\frmAuditTrail.cs" />
+    <Compile Include="Forms\frmAuditTrail.Designer.cs">
+      <DependentUpon>frmAuditTrail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmBooking.cs" />
+    <Compile Include="Forms\frmBooking.Designer.cs">
+      <DependentUpon>frmBooking.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmBookingN.cs" />
+    <Compile Include="Forms\frmBookingN.Designer.cs">
+      <DependentUpon>frmBookingN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmBudgetActualReport.cs" />
+    <Compile Include="Forms\frmBudgetActualReport_popup.cs" />
+    <Compile Include="Forms\frmBudgetActualReport_popup.Designer.cs">
+      <DependentUpon>frmBudgetActualReport_popup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmBudgetActuaReport.Designer.cs">
+      <DependentUpon>frmBudgetActualReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmBudgetStaffing.cs" />
+    <Compile Include="Forms\frmBudgetStaffing.Designer.cs">
+      <DependentUpon>frmBudgetStaffing.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmC2Booking.cs" />
+    <Compile Include="Forms\frmC2Booking.Designer.cs">
+      <DependentUpon>frmC2Booking.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmC2BudgetStaffing.cs" />
+    <Compile Include="Forms\frmC2BudgetStaffing.Designer.cs">
+      <DependentUpon>frmC2BudgetStaffing.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmC2Engagement.cs" />
+    <Compile Include="Forms\frmC2Engagement.Designer.cs">
+      <DependentUpon>frmC2Engagement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmC2Engagementreport.cs" />
+    <Compile Include="Forms\frmC2Engagementreport.Designer.cs">
+      <DependentUpon>frmC2Engagementreport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmC2Pineline.cs" />
+    <Compile Include="Forms\frmC2Pineline.Designer.cs">
+      <DependentUpon>frmC2Pineline.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmC2Pipelinereport.cs" />
+    <Compile Include="Forms\frmC2Pipelinereport.Designer.cs">
+      <DependentUpon>frmC2Pipelinereport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmClient.cs" />
+    <Compile Include="Forms\frmClient.Designer.cs">
+      <DependentUpon>frmClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmClientApplication.cs" />
+    <Compile Include="Forms\frmClientApplication.Designer.cs">
+      <DependentUpon>frmClientApplication.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmClientPosition.cs" />
+    <Compile Include="Forms\frmClientPosition.Designer.cs">
+      <DependentUpon>frmClientPosition.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmClientReport.cs" />
+    <Compile Include="Forms\frmClientReport.Designer.cs">
+      <DependentUpon>frmClientReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmClientReport_Popup.cs" />
+    <Compile Include="Forms\frmClientReport_Popup.Designer.cs">
+      <DependentUpon>frmClientReport_Popup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmConfiguration.cs" />
+    <Compile Include="Forms\frmConfiguration.Designer.cs">
+      <DependentUpon>frmConfiguration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmConnect.cs" />
+    <Compile Include="Forms\frmConnect.Designer.cs">
+      <DependentUpon>frmConnect.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmCRM.cs" />
+    <Compile Include="Forms\frmCRM.Designer.cs">
+      <DependentUpon>frmCRM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmCRM_popup.cs" />
+    <Compile Include="Forms\frmCRM_popup.Designer.cs">
+      <DependentUpon>frmCRM_popup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmEngagement.cs" />
+    <Compile Include="Forms\frmEngagement.Designer.cs">
+      <DependentUpon>frmEngagement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmEngagementDetail.cs" />
+    <Compile Include="Forms\frmEngagementDetail.Designer.cs">
+      <DependentUpon>frmEngagementDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmEngSOW_Popup.cs" />
+    <Compile Include="Forms\frmEngSOW_Popup.Designer.cs">
+      <DependentUpon>frmEngSOW_Popup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmImportERP.cs" />
+    <Compile Include="Forms\frmImportERP.Designer.cs">
+      <DependentUpon>frmImportERP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmIndustry.cs" />
+    <Compile Include="Forms\frmIndustry.Designer.cs">
+      <DependentUpon>frmIndustry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmIndustrySelection.cs" />
+    <Compile Include="Forms\frmIndustrySelection.Designer.cs">
+      <DependentUpon>frmIndustrySelection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmInformation.cs" />
+    <Compile Include="Forms\frmInformation.Designer.cs">
+      <DependentUpon>frmInformation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmInfrastructure.cs" />
+    <Compile Include="Forms\frmInfrastructure.Designer.cs">
+      <DependentUpon>frmInfrastructure.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmITRAMember.cs" />
+    <Compile Include="Forms\frmITRAMember.Designer.cs">
+      <DependentUpon>frmITRAMember.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmmainform.cs" />
+    <Compile Include="Forms\frmmainform.Designer.cs">
+      <DependentUpon>frmmainform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmmainform_popup.cs" />
+    <Compile Include="Forms\frmmainform_popup.Designer.cs">
+      <DependentUpon>frmmainform_popup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmNews.cs" />
+    <Compile Include="Forms\frmNews.Designer.cs">
+      <DependentUpon>frmNews.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmPipeline1.cs" />
+    <Compile Include="Forms\frmPipeline1.Designer.cs">
+      <DependentUpon>frmPipeline1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmRate.cs" />
+    <Compile Include="Forms\frmRate.Designer.cs">
+      <DependentUpon>frmRate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmRateChange.cs" />
+    <Compile Include="Forms\frmRateChange.Designer.cs">
+      <DependentUpon>frmRateChange.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmRetainReport.cs" />
+    <Compile Include="Forms\frmRetainReport.Designer.cs">
+      <DependentUpon>frmRetainReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmRetain_Popup.cs" />
+    <Compile Include="Forms\frmRetain_Popup.Designer.cs">
+      <DependentUpon>frmRetain_Popup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmRetain_Popup1.cs" />
+    <Compile Include="Forms\frmRetain_Popup1.Designer.cs">
+      <DependentUpon>frmRetain_Popup1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmRevenueReport.cs" />
+    <Compile Include="Forms\frmRevenueReport.Designer.cs">
+      <DependentUpon>frmRevenueReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmRevenueWeeklyReport.cs" />
+    <Compile Include="Forms\frmRevenueWeeklyReport.Designer.cs">
+      <DependentUpon>frmRevenueWeeklyReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmRevenue_popup.cs" />
+    <Compile Include="Forms\frmRevenue_popup.Designer.cs">
+      <DependentUpon>frmRevenue_popup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmSystem.cs" />
+    <Compile Include="Forms\frmSystem.Designer.cs">
+      <DependentUpon>frmSystem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmTimesheet.cs" />
+    <Compile Include="Forms\frmTimesheet.Designer.cs">
+      <DependentUpon>frmTimesheet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmTimesheet1.cs" />
+    <Compile Include="Forms\frmTimesheet1.Designer.cs">
+      <DependentUpon>frmTimesheet1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmUtilizationReport.cs" />
+    <Compile Include="Forms\frmUtilizationReport.Designer.cs">
+      <DependentUpon>frmUtilizationReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmUtilization_Popup.cs" />
+    <Compile Include="Forms\frmUtilization_Popup.Designer.cs">
+      <DependentUpon>frmUtilization_Popup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmWebbrowser.cs" />
+    <Compile Include="Forms\frmWebbrowser.Designer.cs">
+      <DependentUpon>frmWebbrowser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmWorkStatus.cs" />
+    <Compile Include="Forms\frmWorkStatus.Designer.cs">
+      <DependentUpon>frmWorkStatus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmWorkStatusReport.cs" />
+    <Compile Include="Forms\frmWorkStatusReport.Designer.cs">
+      <DependentUpon>frmWorkStatusReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\MainForm.cs" />
+    <Compile Include="Forms\MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\NewMainForm.cs" />
+    <Compile Include="Forms\NewMainForm.Designer.cs">
+      <DependentUpon>NewMainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Helper\DateSupport.cs" />
+    <Compile Include="Helper\FormatConverter.cs" />
+    <Compile Include="Helper\Manu_treeview\ButtonNode.cs" />
+    <Compile Include="Helper\Manu_treeview\ButtonTree.cs" />
+    <Compile Include="Helper\Manu_treeview\MenuTreeView.cs" />
+    <Compile Include="Helper\Manu_treeview\MenuTreeView.Designer.cs">
+      <DependentUpon>MenuTreeView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Helper\Manu_treeview\MenuTreeView.Designer1.cs">
+      <DependentUpon>MenuTreeView.resx</DependentUpon>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="Helper\Manu_treeview\MiButton.cs" />
+    <Compile Include="Helper\MyTabPage.cs" />
+    <Compile Include="Helper\OutlookBar.cs" />
+    <Compile Include="Helper\Validation.cs" />
+    <Compile Include="Helper\WebAuthentication.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Forms\frmAuditTrail.resx">
+      <DependentUpon>frmAuditTrail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmBooking.resx">
+      <DependentUpon>frmBooking.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmBookingN.resx">
+      <DependentUpon>frmBookingN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmBudgetActualReport.resx">
+      <DependentUpon>frmBudgetActualReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmBudgetActualReport_popup.resx">
+      <DependentUpon>frmBudgetActualReport_popup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmBudgetStaffing.resx">
+      <DependentUpon>frmBudgetStaffing.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmC2Booking.resx">
+      <DependentUpon>frmC2Booking.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmC2BudgetStaffing.resx">
+      <DependentUpon>frmC2BudgetStaffing.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmC2Engagement.resx">
+      <DependentUpon>frmC2Engagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmC2Engagementreport.resx">
+      <DependentUpon>frmC2Engagementreport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmC2Pineline.resx">
+      <DependentUpon>frmC2Pineline.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmC2Pipelinereport.resx">
+      <DependentUpon>frmC2Pipelinereport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmClient.resx">
+      <DependentUpon>frmClient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmClientApplication.resx">
+      <DependentUpon>frmClientApplication.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmClientPosition.resx">
+      <DependentUpon>frmClientPosition.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmClientReport.resx">
+      <DependentUpon>frmClientReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmClientReport_Popup.resx">
+      <DependentUpon>frmClientReport_Popup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmConfiguration.resx">
+      <DependentUpon>frmConfiguration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmConnect.resx">
+      <DependentUpon>frmConnect.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmCRM.resx">
+      <DependentUpon>frmCRM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmCRM_popup.resx">
+      <DependentUpon>frmCRM_popup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmEngagement.resx">
+      <DependentUpon>frmEngagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmEngagementDetail.resx">
+      <DependentUpon>frmEngagementDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmEngSOW_Popup.resx">
+      <DependentUpon>frmEngSOW_Popup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmImportERP.resx">
+      <DependentUpon>frmImportERP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmIndustry.resx">
+      <DependentUpon>frmIndustry.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmIndustrySelection.resx">
+      <DependentUpon>frmIndustrySelection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmInformation.resx">
+      <DependentUpon>frmInformation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmInfrastructure.resx">
+      <DependentUpon>frmInfrastructure.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmITRAMember.resx">
+      <DependentUpon>frmITRAMember.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmmainform.resx">
+      <DependentUpon>frmmainform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmmainform_popup.resx">
+      <DependentUpon>frmmainform_popup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmNews.resx">
+      <DependentUpon>frmNews.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmPipeline1.resx">
+      <DependentUpon>frmPipeline1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmRate.resx">
+      <DependentUpon>frmRate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmRateChange.resx">
+      <DependentUpon>frmRateChange.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmRetainReport.resx">
+      <DependentUpon>frmRetainReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmRetain_Popup.resx">
+      <DependentUpon>frmRetain_Popup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmRetain_Popup1.resx">
+      <DependentUpon>frmRetain_Popup1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmRevenueReport.resx">
+      <DependentUpon>frmRevenueReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmRevenueWeeklyReport.resx">
+      <DependentUpon>frmRevenueWeeklyReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmRevenue_popup.resx">
+      <DependentUpon>frmRevenue_popup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmSystem.resx">
+      <DependentUpon>frmSystem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmTimesheet.resx">
+      <DependentUpon>frmTimesheet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmTimesheet1.resx">
+      <DependentUpon>frmTimesheet1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmUtilizationReport.resx">
+      <DependentUpon>frmUtilizationReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmUtilization_Popup.resx">
+      <DependentUpon>frmUtilization_Popup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmWebbrowser.resx">
+      <DependentUpon>frmWebbrowser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmWorkStatus.resx">
+      <DependentUpon>frmWorkStatus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmWorkStatusReport.resx">
+      <DependentUpon>frmWorkStatusReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\NewMainForm.resx">
+      <DependentUpon>NewMainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Helper\Manu_treeview\ButtonTree.resx">
+      <DependentUpon>ButtonTree.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Helper\Manu_treeview\MenuTreeView.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>MenuTreeView.Designer1.cs</LastGenOutput>
+      <DependentUpon>MenuTreeView.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="DataConnection" />
+    <Folder Include="Helper" />
+    <Folder Include="Helper\Manu_treeview" />
+    <Folder Include="Forms" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

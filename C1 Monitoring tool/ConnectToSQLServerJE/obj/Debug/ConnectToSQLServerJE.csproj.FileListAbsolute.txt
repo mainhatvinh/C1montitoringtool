@@ -1,0 +1,10 @@
+C:\Documents and Settings\an.c.thien.nguyen\My Documents\SharpDevelop Projects\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\an.c.thien.nguyen\My Documents\SharpDevelop Projects\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\ConnectToSQLServerJE.MainForm.resources
+C:\Documents and Settings\an.c.thien.nguyen\My Documents\SharpDevelop Projects\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\an.c.thien.nguyen\My Documents\SharpDevelop Projects\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\an.c.thien.nguyen\My Documents\SharpDevelop Projects\C1 Monitoring tool\ConnectToSQLServerJE\bin\Debug\ConnectToSQLServerJE.exe
+C:\Documents and Settings\an.c.thien.nguyen\My Documents\SharpDevelop Projects\C1 Monitoring tool\ConnectToSQLServerJE\bin\Debug\ConnectToSQLServerJE.pdb
+C:\Documents and Settings\an.c.thien.nguyen\My Documents\SharpDevelop Projects\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\ConnectToSQLServerJE.exe
+C:\Documents and Settings\an.c.thien.nguyen\My Documents\SharpDevelop Projects\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\ConnectToSQLServerJE.pdb
+C:\Documents and Settings\an.c.thien.nguyen\My Documents\SharpDevelop Projects\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\ConnectToSQLServerJE.Form1.resources
+C:\Documents and Settings\an.c.thien.nguyen\My Documents\SharpDevelop Projects\C1 Monitoring tool\ConnectToSQLServerJE\obj\Debug\ConnectToSQLServerJE.frm_DataInput.resources
